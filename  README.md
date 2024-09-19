@@ -1,0 +1,5 @@
+Bu proje, Spotify veri kümesi üzerinde veri analizi ve makine öğrenmesi yöntemlerini kapsamaktadır. Hem gözetimli hem de gözetimsiz öğrenme modelleri kullanılmıştır. Gözetimli öğrenme kapsamında, lojistik regresyon kullanılarak sanatçılar popülarlık seviyelerine göre sınıflandırılmış, olasılık tahminleri yapılmış ve özelliklerin etkisi analiz edilmiştir. Gözetimsiz öğrenme olarak, K-Means kümeleme algoritması ile müzik parçaları danceability ve energy özelliklerine göre 3 kümeye ayrılmıştır. Ayrıca, PCA (Temel Bileşen Analizi) ile veri boyutu iki bileşene indirilmiş ve verinin %90'ını koruyacak şekilde azaltılmıştır. Sonuçlar, hem gözetimli hem de gözetimsiz öğrenme süreçlerinin görselleştirilmesiyle verinin yapılarını ve kümelenme sonuçlarını anlamayı kolaylaştırmaktadır.
+
+https://www.kaggle.com/code/reyhanbuseyanar/spotfiy-ipynb 
+
+Kggle hesabımdanda inceleyebilirsiniz
